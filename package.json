@@ -1,0 +1,19 @@
+{
+  "name": "git-temp",
+  "version": "1.0.0",
+  "description": "Temporary repository for git learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduard-Konovka/git-temp.git"
+  },
+  "author": "Eduard Konovka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eduard-Konovka/git-temp/issues"
+  },
+  "homepage": "https://github.com/Eduard-Konovka/git-temp#readme"
+}
